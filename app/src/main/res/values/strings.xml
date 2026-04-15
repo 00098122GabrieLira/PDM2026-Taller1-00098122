@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidPedia By Lira</string>
+    <string name="Resultado1">Tienes que estudiar más sobre la historia de Android</string>
+    <string name="Resultado2">Conoces lo basico de la historia de Android</string>
+    <string name="Resultado3">Conoces toda la historia de Android</string>
+</resources>
